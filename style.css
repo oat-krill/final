@@ -11,11 +11,11 @@
   background: #7a3e3d;
   color: #160d0d;
   font-size: 20px;
-  font-family: 'Zen Dots', cursive;
+  font-family: 'Zen Dots';
 } 
 
 textarea{
-  font-family: 'Zen Dots', cursive;
+  font-family: 'Zen Dots';
   font-size: 15px;
 }
 
@@ -153,7 +153,7 @@ a{
     width: 100%;
     margin: 0;
     padding: 10px 0;
-    font: 700 20px 'Zen Dots', cursive, sans-serif;
+    font: 700 20px 'Zen Dots', sans-serif;
   }
   
   .link1:hover {
