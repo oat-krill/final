@@ -14,6 +14,10 @@
   font-family: 'Zen Dots';
 } 
 
+.header-image{
+ background-image: url("images/banner.jpeg");
+}
+
 textarea{
   font-family: 'Zen Dots';
   font-size: 15px;
